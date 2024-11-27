@@ -10,19 +10,24 @@ Course: Python Programming
 
 
 ## TABLE OF CONTENTS
-1. Module: 01_Module_Introduction/
+1. Module: 01_Module_Introduction/ [Introduction.py]
+
 Contains: Introduction.py
 
-2. Module: 02_Module_Variable_built_in_function/
+2. Module: 02_Module_Variable_built_in_function/ 
+
 Contains: variable.py
 
 3. Module: 03_Module_Operators/
+
 Contains: operator.ipynb
 
 4. Module: 03_Module_Operators/
+
 Contains: 
 
 5. File: README.mb
+
 Description: Renamed version of the original README.
 
 
