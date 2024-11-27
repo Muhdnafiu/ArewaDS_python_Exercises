@@ -10,7 +10,7 @@ Course: Python Programming
 
 
 ## TABLE OF CONTENTS
-1. Module: 01_Module_Introduction/ [Introduction.py]
+1. Module: 01_Module_Introduction/
 
 Contains: Introduction.py
 
