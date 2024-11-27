@@ -10,11 +10,25 @@ Course: Python Programming
 
 
 ## TABLE OF CONTENTS
+1. Module: 01_Module_Introduction/
+Contains: Introduction.py
 
-1. 
-2. 
-3.
-4.
-5.
+2. Module: 02_Module_Variable_built_in_function/
+Contains: variable.py
 
+3. Module: 03_Module_Operators/
+Contains: operator.ipynb
+
+4. Module: 03_Module_Operators/
+Contains: 
+
+5. File: README.mb
+Description: Renamed version of the original README.
+
+
+## Key Features
+
+- Easy-to-follow structure: Each module is organized into separate folders for clarity.
+- Well-documented code: Comments are included to explain the logic.
+- Scalability: The code can be extended for additional functionalities.
 
